@@ -9,7 +9,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Decode MiladWorkShop PHP Encoder](https://hide01.medium.com/decode-miladworkshop-7197d69ffee7?source=rss-3b92811d3fed------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Social Media:</h3>
