@@ -3,13 +3,9 @@
 
 - 📖 I’m currently learning [[ eJPT - Penetration Testing Student ]](https://b2n.ir/eJPT)
 
-- 📝 I regularly write articles on [[ hopain.medium.com ]](https://hopain.medium.com)
+- 📝 I regularly write articles on [[ hopain.cyou ]](https://hopain.cyou)
 
 - 📫 Email: **HOPain@disr.it**
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">💬 Social Media:</h3>
 <p align="left">
