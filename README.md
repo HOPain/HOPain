@@ -3,7 +3,7 @@
 
 - 📖 I’m currently learning [[ eJPT - Penetration Testing Student ]](https://b2n.ir/eJPT) & [[ Python ]](https://b2n.ir/python-hop)
 
-- 📝 I regularly write articles on [[ hopain.cyou ]](https://hopain.cyou)
+- 📝 I regularly write notes on [[ hopain.cyou ]](https://hopain.cyou)
 
 - 📫 Email: **HOPain@disr.it**
 
