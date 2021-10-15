@@ -1,7 +1,7 @@
 <h1 align="center">I'm HOP <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">A Passionate Joniur Penetration Tester</h3>
 
-- 📖 I’m currently learning [[ eJPT - Penetration Testing Student ]](https://b2n.ir/eJPT) & [[ Python ]](https://b2n.ir/python-hop)
+- 📖 I’m currently doing [[ THM - Complete Beginner Introduction ]](https://tryhackme.com/path/outline/beginner) & [[ PEN-200 ]](https://www.offensive-security.com/pwk-oscp)
 
 - 📝 I regularly write notes on [[ hopain.cyou ]](https://hopain.cyou)
 
