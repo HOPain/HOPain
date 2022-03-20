@@ -5,7 +5,7 @@
 
 - 📝 I regularly write notes on [[ hopain.cyou ]](https://hopain.cyou)
 
-- 📫 Email: **HOPain@disr.it**
+- 📫 Email: **HOPain@duck.com**
 
 <h3 align="left">💬 Social Media:</h3>
 <p align="left">
